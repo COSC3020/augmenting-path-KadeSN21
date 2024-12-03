@@ -36,4 +36,4 @@ answer, including your reasoning, to this markdown file.
 The worst case $\Theta$ complexity of this implementation is $\Theta (E + V)$ with E being the edges in the graph, and V being the verticies. My implementation uses a breadth first search to traverse the graph with a queue and a "visited" set, this itterates through the verticies within the graph, as well as their "neighbor" verticies until it discovers the target vertex. $\Theta (E + V)$ would become the case when the algorithm has to itterate through all of the verticies, as well as all the edges of the graph in order to find the end vertex. 
 Help: Class videos on graph algorithms. I needed a way to traverse the graph in an efficent manner, I landed on bfs (breadth first search) which I learned more about here: https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
 
-
+“I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
